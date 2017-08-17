@@ -6,7 +6,7 @@
 
 4、规则均为本人常用的APP/网页广告拦截及常用的UA HOST等
 
-5、广告拉截包含：58,腾迅视频,优酷视频,Youtube,搜狐视频,360,阿里,百度,Facebook,Google,腾迅QQ,新浪,Tumblr,Twitter,威锋网,万能钥匙,广告联盟
+5、广告拉截包含：58、腾迅视频、优酷视频、Youtube、搜狐视频、360、阿里、百度、Facebook、Google、腾迅QQ、新浪、Tumblr、Twitter、威锋网、万能钥匙、广告联盟
 
 6、请斟酌使用，谢谢！
 
