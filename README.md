@@ -9,3 +9,13 @@
 5、广告拉截包含：58,腾迅视频,优酷视频,Youtube,搜狐视频,360,阿里,百度,Facebook,Google,腾迅QQ,新浪,Tumblr,Twitter,威锋网,万能钥匙,广告联盟
 
 6、请斟酌使用，谢谢！
+
+Surge：https://raw.githubusercontent.com/wadoro/Rule/master/Surge.conf
+
+Shadowrocket：https://raw.githubusercontent.com/wadoro/Rule/master/Shadowrocket.conf
+
+Cross：https://raw.githubusercontent.com/wadoro/Rule/master/Cross.conf
+
+Quantumult：https://raw.githubusercontent.com/wadoro/Rule/master/Quantumult.conf
+
+AnyFlow：https://raw.githubusercontent.com/wadoro/Rule/master/AnyFlow.conf
