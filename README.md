@@ -1,4 +1,4 @@
-1、个人自用精简规则：Surge、Shadowrocket、Cross、Quantumult、AnyFlow 
+1、自用精简规则：Surge、Shadowrocket、Cross、Quantumult、AnyFlow 
 
 2、本规则为网上搜集及抓包，大部分参考@lhie1x 在此特别感谢！更多请访问：https://github.com/lhie1
 
@@ -6,7 +6,7 @@
 
 4、广告拉截包含：58、腾迅视频、优酷视频、Youtube、搜狐视频、360、阿里、百度、Facebook、Google、腾迅QQ、新浪、Tumblr、Twitter、威锋网、万能钥匙、广告联盟等
 
-5、请斟酌使用，谢谢！
+5、更新不频繁，请斟酌使用，谢谢！
 
 Surge：https://raw.githubusercontent.com/wadoro/Rule/master/Surge.conf
 
