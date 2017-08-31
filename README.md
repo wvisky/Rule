@@ -17,3 +17,6 @@ Cross：https://raw.githubusercontent.com/wadoro/Rule/master/Cross.conf
 Quantumult：https://raw.githubusercontent.com/wadoro/Rule/master/Quantumult.conf
 
 AnyFlow：https://raw.githubusercontent.com/wadoro/Rule/master/AnyFlow.conf
+
+WF:
+Quantumult：https://workflow.is/workflows/5bc0066d8b954a42ad571960f2ffa656
