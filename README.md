@@ -20,6 +20,6 @@ AnyFlow：https://raw.githubusercontent.com/wadoro/Rule/master/AnyFlow.conf
 
 
 
-Workflow:
+◎ Workflow:
 
 Quantumult：https://workflow.is/workflows/5bc0066d8b954a42ad571960f2ffa656
